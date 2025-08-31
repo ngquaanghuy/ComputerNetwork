@@ -1,0 +1,68 @@
+software: phan mem
+communicate: giao tiep
+define: dinh nghia, xac dinh
+protocol: giao thuc
+specific: cu the
+exchange: trao doi
+browsing: duyet
+transfer: truyen, chuyen khoan
+resolution: su phan giai
+advanced: trinh do cao
+multimedia: da phuong tien
+introduction: gioi thieu
+pratical: thuc te
+control: dieu khien
+developed: da phat trien
+remains: con lai
+facto: thuc te
+standart: tieu chuan
+network: mang
+Structure: Ket cau
+real-world: the gioi thuc
+theoretical: li thuyet
+conclusions: phan ket luan
+backbone: xuong song
+comines: ket hop
+functionality: chuc nang
+provide: cung cap
+formatted: duoc dinh dang
+transmitted: truyen di
+recived: da nhan
+program: chuong trinh
+dirverse: da dang
+common: chung
+typical: dien hinh, dac trung
+communication: giao tiep
+delivered: da giao hang
+receiving: nhan duoc
+identifiers: so nhan dang
+reliablity: do tin cay
+guaranttes: dam bao
+arrives: den
+intact: nguyen ven
+sequence: su lien tiep
+duplication: su nhan doi
+flow: chay
+consgestion: su tac nghen
+receiver: nguoi nhan, bo thu
+overwhelmed: choang nghop
+minimized: giam thieu
+segmentation: su phan chia
+reassembly: lap rap lai
+divides: chia re
+chunks: khoi
+segment: doan
+into: vao trong
+destination: diem den
+oriented: dinh huong
+connection-oriented: huong ket noi
+reliable: dang tin cay
+ordered: ra lenh
+delivery: giao hang
+sightly: hoi tho
+slower: cham hon
+due: den han
+overhead: chi phi chung
+connectionsless: khong co ket noi
+lightweight: nhe
+unreliable: khong uy tin
